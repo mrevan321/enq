@@ -427,6 +427,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #price {
   padding: 70px 0px;
 }
+
+#price h4{text-align: center;}
 #price .block > p {
   color: #9D9D9D;
   font-size: 16px;
@@ -492,7 +494,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #subscribe {
   padding: 100px 0px;
   text-align: center;
-  background: url("../images/subscribe-bg.jpg");
+  background: url("../images/sub2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -518,6 +520,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   color: #fff;
   font-size: 18px;
 }
+
+.sub-style {background-color: rgba(0, 0, 0, 0.54);}
 #subscribe .block form .form-control {
   width: 450px;
   background: #fff;
